@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="A. Team/A. Team.vcxproj" Id="3d0fbb93-921b-4461-bc23-27f8242c1c50" />
+  <Project Path="B. Bear and Big Brother/B. Bear and Big Brother.vcxproj" Id="3887b497-f46c-42e2-b398-15d6d8a65db0" />
+  <Project Path="B. Beautiful Matrix/B. Beautiful Matrix.vcxproj" Id="b31543ac-d618-4b59-aa39-511d1a97728c" />
+  <Project Path="C. Garden/C. Garden.vcxproj" Id="2885edea-ff1c-470f-9ece-0bb3e76bb2ad" />
+  <Project Path="C. Polycarp's Pockets/C. Polycarp's Pockets.vcxproj" Id="42868387-16f7-467a-9ecf-da9307891a11" />
+  <Project Path="D. Worms Evolution/D. Worms Evolution.vcxproj" Id="e79d2851-b3d4-4b72-bee0-75efa4eb3f6c" />
+  <Project Path="E. Cellular Network/E. Cellular Network.vcxproj" Id="b2bd30ae-65fd-441a-a312-1d1723f94cba" />
+  <Project Path="PS/PS.vcxproj" Id="76e5a0ba-b364-4931-87a2-c4a721c4346a" />
+</Solution>

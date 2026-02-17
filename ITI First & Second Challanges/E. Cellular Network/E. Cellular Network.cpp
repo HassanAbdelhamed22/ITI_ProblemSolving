@@ -25,14 +25,6 @@ int main()
     int j = 0;
 
     for (int i = 0; i < n; i++) {
-        /*int nearest = INT_MAX;*/
-
-        /*for (int j = 0; j < m; j++) {
-            int distance = abs(cities[i] - towers[j]);
-            if (nearest > distance)
-                nearest = distance;
-        }*/
-
         while (j + 1 < m) {
             long long distance1 = abs(cities[i] - towers[j]);
             long long distance2 = abs(cities[i] - towers[j + 1]);
@@ -49,5 +41,5 @@ int main()
             r = nearest;
     }
 
-    std::cout << r;
+    cout << r;
 }

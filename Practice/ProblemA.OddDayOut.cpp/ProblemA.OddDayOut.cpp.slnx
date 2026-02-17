@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ProblemB.TheLanternsofElDjem/ProblemB.TheLanternsofElDjem.vcxproj" />
+  <Project Path="../ProblemH.Cars/ProblemH.Cars.vcxproj" />
+  <Project Path="ProblemA.OddDayOut.cpp.vcxproj" />
+</Solution>

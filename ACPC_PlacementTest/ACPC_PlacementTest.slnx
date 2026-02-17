@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Problem D. Same-Color Pairs/Problem D. Same-Color Pairs.vcxproj" />
+  <Project Path="Problem E. Game/Problem E. Game.vcxproj" />
+  <Project Path="Problem F. Domty Distribution/Problem F. Domty Distribution.vcxproj" />
+  <Project Path="Problem G. AI-Enhanced Password/Problem G. AI-Enhanced Password.vcxproj" />
+  <Project Path="Problem H. Legacy Systems Validation/Problem H. Legacy Systems Validation.vcxproj" />
+  <Project Path="Problem J. Towering Triumph/Problem J. Towering Triumph.vcxproj" />
+  <Project Path="Problem O. Even Digits in Latakia/Problem O. Even Digits in Latakia.vcxproj" />
+  <Project Path="Problem P. Great XOR/Problem P. Great XOR.vcxproj" />
+  <Project Path="Problem R. gcd/Problem R. gcd.vcxproj" />
+  <Project Path="Problem U. Welcome to school/Problem U. Welcome to school.vcxproj" />
+  <Project Path="Problem Z. Folka and Movies/Problem Z. Folka and Movies.vcxproj" />
+  <Project Path="ProblemC.SavingforaBirthdayGift/ProblemC.SavingforaBirthdayGift.vcxproj" />
+</Solution>
